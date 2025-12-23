@@ -1,24 +1,24 @@
-# 📝 To-Do List Web App
+#  To-Do List Web App
 
 A clean and responsive To-Do List app built with **HTML, CSS, and JavaScript** — no frameworks or libraries. Easily manage your tasks with features like filtering, sorting, dark mode, and search highlighting. Simple yet powerful.
 
 🌐 **Live Demo → (https://to-do-list-taupe-psi-41.vercel.app/)**
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ Add tasks with optional due date
-- 🖊️ Edit and delete tasks
-- 🔍 Search with real-time filtering and clear button
-- 🗂️ Filter by All / Active / Completed
-- 🔃 Sort tasks alphabetically (A–Z / Z–A)
-- 🌙 Dark mode toggle
-- 🧮 Task counter and "Delete All" option
-- 💾 Tasks saved in `localStorage` for persistence
+-  Add tasks with optional due date
+-  Edit and delete tasks
+-  Search with real-time filtering and clear button
+-  Filter by All / Active / Completed
+-  Sort tasks alphabetically (A–Z / Z–A)
+-  Dark mode toggle
+-  Task counter and "Delete All" option
+-  Tasks saved in `localStorage` for persistence
 
 ---
 
-## 📸 Preview
+##  Preview
 
 <!-- Replace with actual screenshots if available -->
 <p align="center">
@@ -46,7 +46,7 @@ A clean and responsive To-Do List app built with **HTML, CSS, and JavaScript** �
 
 ---
 
-## 💻 How to Run
+##  How to Run
 
 1. **Clone the repository**  
    ```bash
@@ -58,40 +58,32 @@ A clean and responsive To-Do List app built with **HTML, CSS, and JavaScript** �
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 * HTML5
 * CSS3
 * JavaScript (Vanilla JS)
 
 ---
-📦 Deployment
+ Deployment
 This project is deployed and hosted on Vercel.
 
 🔗 Live App: (https://to-do-list-taupe-psi-41.vercel.app/)
 
-📂 Also available under the Deployments and About sections on GitHub.
+ Also available under the Deployments and About sections on GitHub.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests are welcome! If you'd like to add features or fix bugs, feel free to fork the repo and open a PR.
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙋‍♂️ Author
-
-**Gaurav Solanki**
-🔗 [GitHub](https://github.com/gauravslnk)
-
----
-
-> Simple. Fast. Offline-friendly. Just get things done.
 
