@@ -74,12 +74,6 @@ This project is deployed and hosted on Vercel.
 
 ---
 
-##  Contributing
-
-Pull requests are welcome! If you'd like to add features or fix bugs, feel free to fork the repo and open a PR.
-
----
-
 ##  License
 
 This project is licensed under the [MIT License](LICENSE).
